@@ -25,7 +25,7 @@ Required libraries (e.g., pandas, numpy, scikit-learn, matplotlib, seaborn)
 
 ### Installation
  1. Clone this repository:
-    git clone https://github.com/aravinddsa91/FindDefault.git
+    git clone https://github.com/nishtechie22/FindDefault.git
     cd FindDefault
  3. Install the required libraries:
     pip install -r requirements.txt
