@@ -37,6 +37,12 @@ Required libraries (e.g., pandas, numpy, scikit-learn, matplotlib, seaborn)
  4. Balance the dataset and train the model.
  5. Tune the hyperparameters.
 
+## Future work
+While this project lays a solid foundation for credit card fraud detection, there are several areas for future improvement and exploration:
+1. Advanced Models: Experiment with more sophisticated machine learning algorithms such as ensemble methods (e.g., Gradient Boosting) or deep learning techniques (e.g., neural networks) to potentially improve classification performance.
+2. Integration with External Data: Incorporate external datasets, such as user behavior or location data, to enrich the model's context and improve prediction accuracy.
+3. In this project, hyperparameter tuning improved the model's ability to generalize to unseen data, resulting in better precision and recall metrics. Future work will focus on further refining these hyperparameters and exploring automated tuning methods for even greater performance enhancements.
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request to propose changes or improvements.
 
