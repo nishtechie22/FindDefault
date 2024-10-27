@@ -44,6 +44,6 @@ Contributions are welcome! Please open an issue or submit a pull request to prop
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-* Dataset sourced from (https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS%20Project%20Guide%20Data%20Set/creditcard.csv).
+* Dataset sourced from (https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS%20Project%20Guide%20Data%20Set/creditcard.csv)
 
 
